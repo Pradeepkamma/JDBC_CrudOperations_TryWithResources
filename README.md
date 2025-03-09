@@ -31,7 +31,7 @@ CREATE TABLE employees3 (
 ## How to Run the Project
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/JDBC_CrudOperations_TryWithResources.git
+   git clone https://github.com/Pradeepkamma/JDBC_CrudOperations_TryWithResources.git
    ```
 2. Open the project in your favorite IDE (Eclipse, IntelliJ, VS Code).
 3. Make sure you have the MySQL JDBC driver (`mysql-connector-java`) added to your project.
